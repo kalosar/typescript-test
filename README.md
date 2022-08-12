@@ -1,3 +1,3 @@
-# Noumenon
+# pkg-name
 
-[![NPM version](https://img.shields.io/npm/v/nxiv?color=a1b858&label=nxiv)](https://www.npmjs.com/package/nxiv)
+[![NPM version](https://img.shields.io/npm/v/pkg-name?color=a1b858&label=pkg-name)](https://www.npmjs.com/package/pkg-name)

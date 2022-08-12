@@ -1,17 +1,17 @@
 {
-  "name": "nxiv",
+  "name": "pkg-name",
   "type": "module",
   "version": "0.0.0",
   "packageManager": "pnpm@7.2.1",
-  "description": "Noumenon, the typescript library for XIVAPI",
-  "author": "Marius Andresen",
+  "description": "",
+  "author": "Firstname Lastname <email>",
   "license": "MIT",
-  "homepage": "https://noumenon.netlify.app",
+  "homepage": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kalosar/noumenon"
+    "url": "https://github.com/username/pkg-name"
   },
-  "bugs": "https://github.com/kalosar/noumenon/issues",
+  "bugs": "https://github.com/username/pkg-name/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
